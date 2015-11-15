@@ -14,7 +14,7 @@ Pull requests let you tell others about changes you've pushed to a repository on
 This guide walks through the process of sending a hypothetical pull request and using the various code review and management tools to take the change to completion.
 ++++++++++++++++++++++++++++++++++++
 
-# Прежде чем начнать.
+# Прежде чем начнать
 
 Это руководство предполагает, что у Вас есть аккаунт на GitHub, что Вы сделали ответвление (fork) от некоего существующего репозитория, и что Вы сделали изменения в Вашем ответвлении и они помещены на GitHub (push). Справка по ответвлениям и сохранениям изменений в разделе Forking a Repo.
 
@@ -24,7 +24,7 @@ Before you begin
 This guide assumes that you have a GitHub account, that you've forked an existing repository, and that you've pushed changes to your fork. For help with forking and pushing changes, see the Forking a Repo article.
 ++++++++++++++++++++++++++++++++++++
 
-Инициирование pull request
+# Инициирование pull request
 
 В следующем примере Hubot завершил некоторые работы с ответвлением Octocat's Spoon-Knife репозитория, отправил изменения на GitHub (операциии - commit и push) в своё ответвление (в свою вилку, в свой fork) и хочет комуто показать сделанные изменения и объединить свои изменения (в своём fork) с исходным репозиторием.
 
@@ -48,7 +48,7 @@ Navigate to your repository with the changes you want someone else to pull and p
 Pull requests can be sent from any branch or commit but it's recommended that a topic branch be used so that follow-up commits can be pushed to update the pull request if necessary.
 ++++++++++++++++++++++++++++++++++++
 
-Обзор pull request
+# Обзор pull request
 
 После запуска обзора, Вы увидите комментарии на странице, там же можно получить высокоуровневый обзор того, что именно изменилось между Вашей веткой и веткой репозитория Master.
 Вы можете просмотреть все комментарии, сделанные на коммиты (фиксации - commit), определить, какие файлы изменены, и получить список участников в Вашей ветке.
