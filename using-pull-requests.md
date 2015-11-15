@@ -8,11 +8,9 @@ https://help.github.com/articles/using-pull-requests/
 
 Это руководство проведет через процесс отправки гипотетического патча с использованием различных ревью кода и инструментов управления, чтобы зафиксировать изменения.
 
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
+{% post_url 2010-07-21-name-of-post %}
+
+[Name of Link]({% post_url 2010-07-21-name-of-post %})
 
 ++++++++++++++++++++++++++++++++++++
 
