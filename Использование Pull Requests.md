@@ -1,7 +1,7 @@
 Адрес статьи:
 https://help.github.com/articles/using-pull-requests/
 
-Использование Пула Запросов
+# Использование Пула Запросов
 
 Пулл запросов позволяет Вам рассказать другим о Ваших изменениях отправленных в репозиторий на GitHub.
 Когда pull request был отправлен, заинтересованные стороны могут проанализировать совокупность изменений, обсудить возможные изменения, и зафиксировать их при необходимости (событием push).
@@ -14,7 +14,7 @@ Pull requests let you tell others about changes you've pushed to a repository on
 This guide walks through the process of sending a hypothetical pull request and using the various code review and management tools to take the change to completion.
 ++++++++++++++++++++++++++++++++++++
 
-Прежде чем начнать.
+# Прежде чем начнать.
 
 Это руководство предполагает, что у Вас есть аккаунт на GitHub, что Вы сделали ответвление (fork) от некоего существующего репозитория, и что Вы сделали изменения в Вашем ответвлении и они помещены на GitHub (push). Справка по ответвлениям и сохранениям изменений в разделе Forking a Repo.
 
