@@ -1,6 +1,9 @@
 Адрес статьи:
 https://help.github.com/articles/using-pull-requests/
 
+[Read more words!](docs/more_words.md)
+[Absolute README link](https://github.com/username/repo/blob/branch/docs/more_words.md)
+
 # Использование Пула Запросов
 
 Пулл запросов позволяет Вам рассказать другим о Ваших изменениях отправленных в репозиторий на GitHub.
