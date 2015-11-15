@@ -8,9 +8,7 @@ https://help.github.com/articles/using-pull-requests/
 
 Это руководство проведет через процесс отправки гипотетического патча с использованием различных ревью кода и инструментов управления, чтобы зафиксировать изменения.
 
-{% post_url 2010-07-21-name-of-post %}
-
-[Name of Link]({% post_url 2010-07-21-name-of-post %})
+<code>12312312321</code>
 
 ++++++++++++++++++++++++++++++++++++
 
@@ -20,14 +18,16 @@ This guide walks through the process of sending a hypothetical pull request and 
 
 ++++++++++++++++++++++++++++++++++++
 
-## Прежде чем начнать
+## Прежде чем начать
 
 Это руководство предполагает, что у Вас есть аккаунт на GitHub, что Вы сделали ответвление (fork) от некоего существующего репозитория, и что Вы сделали изменения в Вашем ответвлении и они помещены на GitHub (push). Справка по ответвлениям и сохранениям изменений в разделе Forking a Repo.
 
 ++++++++++++++++++++++++++++++++++++
+
 Before you begin
 
 This guide assumes that you have a GitHub account, that you've forked an existing repository, and that you've pushed changes to your fork. For help with forking and pushing changes, see the Forking a Repo article.
+
 ++++++++++++++++++++++++++++++++++++
 
 ## Инициирование pull request
@@ -42,6 +42,7 @@ This guide assumes that you have a GitHub account, that you've forked an existin
 Pull Request могут быть посланы из любой ветки или фиксации (commit), но рекомендуется использовать тематическую ветку, чтобы последующие фиксации (commit) можно было сдвигать при необходимости.
 
 ++++++++++++++++++++++++++++++++++++
+
 Initiating the pull request
 
 In the following example, Hubot has completed some work on a fork of the Octocat's Spoon-Knife repository, pushed a commit to a topic branch in his fork, and would like someone to review and merge.
@@ -52,6 +53,7 @@ Navigate to your repository with the changes you want someone else to pull and p
     Pull Request buttonClick the Compare & review button
 
 Pull requests can be sent from any branch or commit but it's recommended that a topic branch be used so that follow-up commits can be pushed to update the pull request if necessary.
+
 ++++++++++++++++++++++++++++++++++++
 
 ## Обзор pull request
@@ -60,10 +62,13 @@ Pull requests can be sent from any branch or commit but it's recommended that a 
 Вы можете просмотреть все комментарии, сделанные на коммиты (фиксации - commit), определить, какие файлы изменены, и получить список участников в Вашей ветке.
 
 ++++++++++++++++++++++++++++++++++++
+
 Reviewing the pull request
 
 After starting the review, you're presented with a review page where you can get a high-level overview of what exactly has changed between your branch and the repository's master branch. You can review all comments made on commits, identify which files changed, and get a list of contributors to your branch.
+
 ++++++++++++++++++++++++++++++++++++
+
 Changing the branch range and destination repository
 
 By default, pull requests are assumed to be based on the parent repository's default branch. In this case, the hubot/Spoon-Knife repository was forked from octocat/Spoon-Knife so the pull request is assumed to be based on the master branch of the octocat/Spoon-Knife repository.
