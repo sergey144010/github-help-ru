@@ -1,12 +1,13 @@
 Адрес статьи:
 https://help.github.com/articles/using-pull-requests/
 
-# Использование Пула Запросов
+# Использование Pull Requests
 
 Пулл запросов позволяет Вам рассказать другим о Ваших изменениях отправленных в репозиторий на GitHub.
 Когда pull request был отправлен, заинтересованные стороны могут проанализировать совокупность изменений, обсудить возможные изменения, и зафиксировать их при необходимости (событием push).
 
 Это руководство проведет через процесс отправки гипотетического патча с использованием различных ревью кода и инструментов управления, чтобы зафиксировать изменения.
+
 
 ++++++++++++++++++++++++++++++++++++
 Pull requests let you tell others about changes you've pushed to a repository on GitHub. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
@@ -24,7 +25,7 @@ Before you begin
 This guide assumes that you have a GitHub account, that you've forked an existing repository, and that you've pushed changes to your fork. For help with forking and pushing changes, see the Forking a Repo article.
 ++++++++++++++++++++++++++++++++++++
 
-# Инициирование pull request
+## Инициирование pull request
 
 В следующем примере Hubot завершил некоторые работы с ответвлением Octocat's Spoon-Knife репозитория, отправил изменения на GitHub (операциии - commit и push) в своё ответвление (в свою вилку, в свой fork) и хочет комуто показать сделанные изменения и объединить свои изменения (в своём fork) с исходным репозиторием.
 
@@ -48,7 +49,7 @@ Navigate to your repository with the changes you want someone else to pull and p
 Pull requests can be sent from any branch or commit but it's recommended that a topic branch be used so that follow-up commits can be pushed to update the pull request if necessary.
 ++++++++++++++++++++++++++++++++++++
 
-# Обзор pull request
+## Обзор pull request
 
 После запуска обзора, Вы увидите комментарии на странице, там же можно получить высокоуровневый обзор того, что именно изменилось между Вашей веткой и веткой репозитория Master.
 Вы можете просмотреть все комментарии, сделанные на коммиты (фиксации - commit), определить, какие файлы изменены, и получить список участников в Вашей ветке.
