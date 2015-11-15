@@ -8,6 +8,12 @@ https://help.github.com/articles/using-pull-requests/
 
 Это руководство проведет через процесс отправки гипотетического патча с использованием различных ревью кода и инструментов управления, чтобы зафиксировать изменения.
 
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
 ++++++++++++++++++++++++++++++++++++
 
 Pull requests let you tell others about changes you've pushed to a repository on GitHub. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
