@@ -36,9 +36,11 @@ https://help.github.com/articles/using-pull-requests/
 Перейдите в свой репозиторий с изменениями которые Вы хотите отправить и нажмите кнопку Pull Request.
 
 1. Переключите Вашу ветку.
+
 <img src="https://help.github.com/assets/images/help/branch/pick-your-branch.png" width="350px">
 
 2. Нажмите кнопку Compare & review.
+
 <img src="https://help.github.com/assets/images/help/pull_requests/pull-request-start-review-button.png" width="350px">
 
 
