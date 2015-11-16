@@ -38,7 +38,7 @@ https://help.github.com/articles/using-pull-requests/
 1. Переключите Вашу ветку.
 2. Нажмите кнопку Compare & review.
 
-<img src="https://help.github.com/assets/images/help/branch/pick-your-branch.png">
+<img src="https://help.github.com/assets/images/help/branch/pick-your-branch.png" width="50px">
 <img src="https://help.github.com/assets/images/help/pull_requests/pull-request-start-review-button.png">
 
 
