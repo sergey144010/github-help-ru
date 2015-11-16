@@ -38,8 +38,8 @@ https://help.github.com/articles/using-pull-requests/
 1. Переключите Вашу ветку.
 2. Нажмите кнопку Compare & review.
 
-<img src="https://help.github.com/assets/images/help/branch/pick-your-branch.png" width="50px">
-<img src="https://help.github.com/assets/images/help/pull_requests/pull-request-start-review-button.png">
+<img src="https://help.github.com/assets/images/help/branch/pick-your-branch.png" width="350px">
+<img src="https://help.github.com/assets/images/help/pull_requests/pull-request-start-review-button.png" width="350px">
 
 
 Pull Request могут быть посланы из любой ветки или фиксации (commit), но рекомендуется использовать тематическую ветку, чтобы последующие фиксации (commit) можно было сдвигать при необходимости.
